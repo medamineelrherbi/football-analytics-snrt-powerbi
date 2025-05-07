@@ -28,7 +28,7 @@ When you open the dashboard, you're presented with **two clickable icons** on th
 
 ### 🏠 Main Page: Dashboard Navigation
 
-> 📸 `Screenshots/main_page.png`
+> ![Main Page](Screenshots/main_page.png)
 
 This page contains **two icons**:
 - 📁 **First Version (Legacy Application)**
@@ -40,12 +40,12 @@ This page contains **two icons**:
 
 ### 📄 1. Analysis of Events & Matches
 
-> 📸 `Screenshots/version1_events_matchs.png`
+> 📸 ![Version1_events_matchs](Screenshots/version1_events_matchs.png)
 
 
 ### 📄 2. Analysis of scores
 
-> 📸 `Screenshots/version1_goals_analysis.png`
+> 📸  ![Version1_events_matchs](Screenshots/version1_goals_analysis.png)
 
 
 ---
@@ -54,12 +54,12 @@ This page contains **two icons**:
 
 ### 📄 3. Analysis per competition
 
-> 📸 `Screenshots/version2_competition_analysis.png`
+> 📸 ![Version1_events_matchs](Screenshots/version2_competition_analysis.png)  
 
 
 ### 📄 4. Analysis per team
 
-> 📸 `Screenshots/version2_team_analysis.png`
+> 📸 ![Version1_events_matchs](Screenshots/version2_team_analysis.png)    
 
 
 ---
